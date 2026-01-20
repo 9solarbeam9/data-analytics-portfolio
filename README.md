@@ -9,6 +9,15 @@ This repository contains a curated portfolio of data analytics and analytics eng
 - Data visualization and storytelling
 
 ## Projects
-Projects are organized by topic and course, with a focus on real-world problem solving, clean code, and clear insights.
 
-More projects will be added as I continue building advanced analytics and data engineering skills.
+### Featured Projects
+- **[Democracy Index Analysis](./democracy-index-analysis)**  
+  Exploratory analysis of global democracy indicators to uncover regional and country-level trends using Python and data visualization.
+
+- **[Human Activity Recognition (HAR)](./human-activity-recognition)**  
+  Analysis of sensor-based activity data to explore behavioral patterns and structured datasets using Python.
+
+- **[Network Analysis Project](./network-analysis-project)**  
+  Graph-based analysis of relationships and connections within a dataset using network analysis techniques.
+
+
