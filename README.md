@@ -2,13 +2,12 @@
 
 > This project is licensed under the MIT License and is shared for educational and portfolio purposes.
 
-This repository contains a curated portfolio of data analytics and analytics engineering projects demonstrating skills in:
+This repository contains a curated portfolio of data analytics projects demonstrating skills in:
 
-- SQL (querying, joins, aggregations, optimization)
-- Python (data cleaning, analysis, visualization)
-- Data modeling (ER diagrams, relational design)
-- Databases (relational and NoSQL concepts)
-- Data visualization and storytelling
+- Python for data cleaning, exploratory analysis, and visualization
+- Data modeling and analytical problem-solving
+- Working with structured datasets and database concepts
+- Communicating insights through visual storytelling
 
 ## Projects
 
