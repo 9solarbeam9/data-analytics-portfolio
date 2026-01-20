@@ -1,5 +1,7 @@
 # Data Analytics Portfolio
 
+> This project is licensed under the MIT License and is shared for educational and portfolio purposes.
+
 This repository contains a curated portfolio of data analytics and analytics engineering projects demonstrating skills in:
 
 - SQL (querying, joins, aggregations, optimization)
